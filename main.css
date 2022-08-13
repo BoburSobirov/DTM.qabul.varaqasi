@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Livvic:wght@200;300&display=swap");
+.container {
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  border: 1px solid;
+  border-radius: 24px;
+  background-color: lightgreen;
+  color: black;
+  align-items: center;
+}
+.container .text {
+  font-size: 25px;
+  font-weight: 900;
+  color: black;
+  font-family: "Livvic", sans-serif;
+  margin-top: 150px;
+  margin-left: 50px;
+}/*# sourceMappingURL=main.css.map */
